@@ -20,10 +20,9 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 - Multi-point T-nut clamping for secure fixture connection
 - T-nut anti-spin design prevents T-nuts from rotating, enabling quick and easy installation
 - Optional side alignment pins for improved alignment and jig longevity
-- End alignment pins for common 10 mm fixed-offset drilling
+- End alignment pins for common fixed-offset drilling
 - Convenient alignment locations for matching to measured marks on the extrusion
 - Designed for Additive Manufacturing (DfAM)
-- Included parameter file for easy user customization
 - Optional multi-purpose jig that handles various extrusion sizes and joint types — ideal for non-repetitive or mixed jobs where setup/removal time is acceptable in exchange for fewer dedicated tools
 
 ## Hardware
@@ -43,9 +42,11 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 ## Important Notes
 - Check the CAD files for exact quantities required per jig variant.
 - Drill bits have very tight clearance with the bearings — lubricant is highly recommended for smooth motion and better cutting performance.
+- **Use higher spindle RPM with a slower/controlled feed rate** to achieve a lower chip load — this prevents drill bit binding, and produces cleaner holes (apply very light pressure when hand-feeding).
 - Pin holes should be drilled/reamed to 5 mm; apply light grease or lubricant so pins slide easily but do not fall out.
-- Side alignment pins are optional for most variants (required for the multi-jig version); front/end alignment pins provide a fixed 10 mm offset.
+- Side alignment pins are optional for most variants (required for the multi-jig version); front/end alignment pins provide a fixed offset.
 - Counterbore overhangs are intentionally bridged to simplify printing — insert bearings first, then drill out.
-- If printed tolerances do not match your needs (e.g., too tight/loose), adjust them using the included Fusion 360 parameter file.
+- If printed tolerances do not match your needs (e.g., too tight/loose), adjust them using the included Fusion 360 parameter file — use care for other changes, as major modifications may break the model.
+- If bearings don't stay in place, adjust tolerances in CAD and/or use retaining compound to secure them.
 - The 9.5 mm T-nut length is required for the anti-spin feature to function correctly (length can be adjusted in the CAD if needed).
 - For 4040 extrusions in through-hole counterbored joints, a separate 5.5 mm drill bit is needed to fully finish the 5.5 mm pilot/clearance hole through the full profile thickness.
