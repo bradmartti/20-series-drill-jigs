@@ -31,7 +31,7 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 | Item                                      | Recommended Source                                                                 |
 |-------------------------------------------|------------------------------------------------------------------------------------|
 | 685ZZ 5×11×5 mm bearing                   | [Aliexpress](https://www.aliexpress.com/item/1005006224445582.html)               |
-| R1028ZZ 3/8" × 5/8" × 5/32" bearing       | [Amazon.ca](https://www.amazon.ca/HiPicco-R1038ZZ-Bearings-Miniature-Shielded/dp/B0CH37GYYF?th=1), [Amazon.com](https://www.amazon.com/FOCMKEAS-R1038ZZ-Industrial-Mechanical-Equipment/dp/B0B6WRXGZR) |
+| R1038ZZ 3/8" × 5/8" × 5/32" bearing       | [Amazon.ca](https://www.amazon.ca/HiPicco-R1038ZZ-Bearings-Miniature-Shielded/dp/B0CH37GYYF?th=1), [Amazon.com](https://www.amazon.com/FOCMKEAS-R1038ZZ-Industrial-Mechanical-Equipment/dp/B0B6WRXGZR) |
 | 5 mm × 40 mm pin (or custom length)       | [Aliexpress](https://www.aliexpress.com/item/4000473863693.html)|
 | 5 mm drill bit                            | [Aliexpress - XUHAN](https://www.aliexpress.com/item/1005002617939096.html)       |
 | 5.5 mm drill bit (for 4040 counterbore)   | [Aliexpress - XUHAN](https://www.aliexpress.com/item/1005002617939096.html)       |
