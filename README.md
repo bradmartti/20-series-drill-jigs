@@ -48,4 +48,4 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 - Counterbore overhangs are intentionally bridged to simplify printing — insert bearings first, then drill out.
 - If printed tolerances do not match your needs (e.g., too tight/loose), adjust them using the included Fusion 360 parameter file.
 - The 9.5 mm T-nut length is required for the anti-spin feature to function correctly (length can be adjusted in the CAD if needed).
-- For 4040 extrusions in through-hole counterbored joints, a separate 5.5 mm drill bit is needed to fully finish the 5.5 mm pilot/clearance hole through the full profile thickness, as the step drill alone may not penetrate deeply enough on both sides for a clean result.
+- For 4040 extrusions in through-hole counterbored joints, a separate 5.5 mm drill bit is needed to fully finish the 5.5 mm pilot/clearance hole through the full profile thickness.
