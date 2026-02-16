@@ -21,7 +21,7 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 - T-nut anti-spin design prevents T-nuts from rotating, enabling quick and easy installation
 - Optional side alignment pins for improved alignment and jig longevity
 - End alignment pins for common 10 mm fixed-offset drilling
-- Convenient alignment marks for matching to measured locations on the extrusion
+- Convenient alignment locations for matching to measured marks on the extrusion
 - Designed for Additive Manufacturing (DfAM)
 - Included parameter file for easy user customization
 - Optional multi-purpose jig that handles various extrusion sizes and joint types — ideal for non-repetitive or mixed jobs where setup/removal time is acceptable in exchange for fewer dedicated tools
