@@ -50,3 +50,8 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 - If bearings don't stay in place, adjust tolerances in CAD and/or use retaining compound to secure them.
 - The 9.5 mm T-nut length is required for the anti-spin feature to function correctly (length can be adjusted in the CAD if needed).
 - For 4040 extrusions in through-hole counterbored joints, a separate 5.5 mm drill bit is needed to fully finish the 5.5 mm pilot/clearance hole through the full profile thickness.
+
+<div style="display: flex; gap: 1%; justify-content: space-around;">
+  <img src="Images/counterbore_40.png" width="49%" alt="Image1">
+  <img src="Images/blind_40.png" width="49%" alt="Image2">
+</div>
