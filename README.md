@@ -33,7 +33,6 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 | R1038ZZ 3/8" × 5/8" × 5/32" bearing       | [Amazon.ca](https://www.amazon.ca/HiPicco-R1038ZZ-Bearings-Miniature-Shielded/dp/B0CH37GYYF?th=1), [Amazon.com](https://www.amazon.com/FOCMKEAS-R1038ZZ-Industrial-Mechanical-Equipment/dp/B0B6WRXGZR) |
 | 5 mm × 40 mm pin (or custom length)       | [Aliexpress](https://www.aliexpress.com/item/4000473863693.html)|
 | 5 mm drill bit                            | [Aliexpress - XUHAN](https://www.aliexpress.com/item/1005002617939096.html)       |
-| 5.5 mm drill bit (for 4040 counterbore)   | [Aliexpress - XUHAN](https://www.aliexpress.com/item/1005002617939096.html)       |
 | 5.5–9.5 mm step drill                     | [Aliexpress - DrillForce](https://www.aliexpress.com/item/32914005099.html#nav-specification) |
 | 5 mm and 9.5 mm depth stop collars        | [Aliexpress](https://www.aliexpress.com/item/1005005826023888.html)               |
 | M4 T-nut (9.5 mm length)                  | [Aliexpress](https://www.aliexpress.com/item/1005007883028035.html)               |
@@ -49,7 +48,7 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 - If printed tolerances do not match your needs (e.g., too tight/loose), adjust them using the included Fusion 360 parameter file — use care for other changes, as major modifications may break the model.
 - If bearings don't stay in place, adjust tolerances in CAD and/or use retaining compound to secure them.
 - The 9.5 mm T-nut length is required for the anti-spin feature to function correctly (length can be adjusted in the CAD if needed).
-- For 4040 extrusions in through-hole counterbored joints, a separate 5.5 mm drill bit is needed to fully finish the 5.5 mm pilot/clearance hole through the full profile thickness.
+- For 4040 extrusions in through-hole counterbored joints, use the blind hole jig to finish the hole through the full profile thickness.
 
 <div style="display: flex; gap: 1%; justify-content: space-around;">
   <img src="Images/counterbore_40.png" width="49%" alt="Image1">
