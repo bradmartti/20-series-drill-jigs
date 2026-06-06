@@ -48,7 +48,7 @@ These jigs enable precise drilling of 20-series aluminum extrusions for through-
 - If printed tolerances do not match your needs (e.g., too tight/loose), adjust them using the included Fusion 360 parameter file — use care for other changes, as major modifications may break the model.
 - If bearings don't stay in place, adjust tolerances in CAD and/or use retaining compound to secure them.
 - The 9.5 mm T-nut length is required for the anti-spin feature to function correctly (length can be adjusted in the CAD if needed).
-- For 4040 extrusions in through-hole counterbored joints, use the blind hole jig to finish the hole through the full profile thickness.
+- **When drilling 4040 extrusions for through-hole counterbored joints, pre-drill with the blind-hole jig to make the counterbore drilling easier and to account for the counterbore bit not reaching the full depth of the extrusion.**
 
 <div style="display: flex; gap: 1%; justify-content: space-around;">
   <img src="Images/counterbore_40.png" width="49%" alt="Image1">
